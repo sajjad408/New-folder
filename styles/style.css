@@ -19,3 +19,7 @@ h3{
     border: 20px solid black;
     box-shadow: blue;
 }
+
+.list {
+    color: green;
+}
