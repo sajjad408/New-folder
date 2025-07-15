@@ -1,0 +1,21 @@
+h3{
+    text-align: center;
+    background-color: coral;
+    padding: 20px;
+}
+.glow {
+    height: 730px;
+    width: auto;
+    background-image: url(../images/18697.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.natus {
+    color: red;
+    font-weight: bold;
+}
+.practice {
+    border: 20px solid black;
+    box-shadow: blue;
+}
